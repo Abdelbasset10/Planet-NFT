@@ -1,0 +1,11 @@
+{
+  "name": "My Cool NFT #2",
+  "description": "This is an example NFT stored on IPFS.",
+  "image": "ipfs://bafkreibonzammvqtqph3hvvfe7u2p5oaqeiqfdnuw3kp6qjsqcw2hycaom",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}
